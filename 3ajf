@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>
+        3 Artistas, Jogos e Filmes
+    </h1>
+
+    <h1>Artistas:</h1>
+    <p>Bob marley, Mc laranjinha, Snoop dogg</p>
+    <img src="bobmarley.jpg" width="300"> <img src="mclaranjinha.webp" width="300" > <img src="snoop dogg.jpg" width="300" >
+
+    <h1>Jogos:</h1>
+    <p>Minecraft, GTA5, Daysgone</p>
+    <img src="minecraft.avif" width="250"> <img src="Grand_Theft_Auto_V_capa.png" width="316"> <img src="daysgone.jpeg" width="268">
+
+    <h1>Filmes:</h1>
+    <p>Ongbak, o guarda-costas tailandes, Lutador de rua</p>
+    <img src="ongbak.jpg" width="300"> <img src="o-guarda-costas-tailandes.jpg" width="313"> <img src="bone.jpg" width="315">
+    
+</body>
+</html>
